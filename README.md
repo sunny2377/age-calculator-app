@@ -1,2 +1,2 @@
-# age-calculator-app
-It can approximately calculate how old are you
+# Age-Calculator-App
+It cancalculate how old are you
